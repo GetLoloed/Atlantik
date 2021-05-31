@@ -1,0 +1,12 @@
+Secteur;Liaison;;;
+;Code Liaison;Distance en milles marin;Port de départ;Port d’arrivée
+Belle-Ile-en-Mer;15;8.3;Quiberon;Le Palais
+;24;9;Le Palais;Quiberon
+;16;8.0;Quiberon;Sauzon
+;17;7.9;Sauzon;Quiberon
+;19;23.7;Vannes;Le Palais
+;11;25.1;Le Palais;Vannes
+Houat;25;8.8;Quiberon;Port St Gildas
+;30;8.8;Port St Gildas;Quiberon
+Ile de Groix;21;7.7;Lorient;Port-Tudy
+;22;7.4;Port-Tudy;Lorient
